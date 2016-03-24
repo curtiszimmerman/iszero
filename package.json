@@ -1,0 +1,27 @@
+{
+  "name": "iszero",
+  "version": "1.0.0",
+  "description": "Test if given number is zero.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curtiszimmerman/iszero.git"
+  },
+  "keywords": [
+    "zero",
+    "test",
+    "number"
+  ],
+  "author": "Curtis Zimmerman",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/curtiszimmerman/iszero/issues"
+  },
+  "homepage": "https://github.com/curtiszimmerman/iszero#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
